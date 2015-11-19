@@ -1,0 +1,16 @@
+E:\DEV\Projects\DrivingSchool\View\bin\Debug\View.exe.config
+E:\DEV\Projects\DrivingSchool\View\bin\Debug\View.exe
+E:\DEV\Projects\DrivingSchool\View\bin\Debug\View.pdb
+E:\DEV\Projects\DrivingSchool\View\bin\Debug\Domain.dll
+E:\DEV\Projects\DrivingSchool\View\bin\Debug\Domain.pdb
+E:\DEV\Projects\DrivingSchool\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\DEV\Projects\DrivingSchool\View\obj\Debug\View.exe
+E:\DEV\Projects\DrivingSchool\View\obj\Debug\View.pdb
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\bin\Debug\View.exe.config
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\obj\Debug\View.exe
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\obj\Debug\View.pdb
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\bin\Debug\View.exe
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\bin\Debug\View.pdb
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\bin\Debug\Domain.dll
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\bin\Debug\Domain.pdb
+C:\Users\User\Desktop\DESKTOP\Домашки\DrivingSchool\View\obj\Debug\View.csprojResolveAssemblyReference.cache
